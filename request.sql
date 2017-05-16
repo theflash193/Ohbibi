@@ -1,0 +1,6 @@
+-- List query script:
+-- - Add or change a property’s value and optionally attach it to a group
+-- - Get all properties for a game
+-- - Get all currently active properties for any group for a game
+-- - Retrieve the properties for a player’s game based on the current time and the
+-- player’s group
